@@ -8,9 +8,9 @@
         <img src="https://img.shields.io/badge/Twitter-Follow%20me!-bluevioletlogo=Twitter&logoColor=blueviolet" alt="Twitter badge">
     </a>
     <a href="https://www.youtube.com/channel/UCSSn4gcz6-YhWUhhCvgGJxA" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+        <img src="https://img.shields.io/badge/YouTube-red" alt="Youtube Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/gabriel-alves-9ba22422b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-check%20me%20out!" alt="LinkedIn Badge"/>
   </a>
 </div>
