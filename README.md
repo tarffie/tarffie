@@ -5,9 +5,9 @@
 <span id="desc">Hello, there. I'm Tim, game developer that really loves computing and tech. Coffee addicted and really annoying when it comes to clean code. Looking for opportunities to contribute as a developer in open source projects and develop my games as well!</span>
 
 <div id="badges" align="center">
-    <a href="https://twitter.com/gabs_js" target="_blank">
+  <!--  <a href="https://twitter.com/gabs_js" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-Follow%20me!-bluevioletlogo=Twitter&logoColor=blueviolet" alt="Twitter badge">
-    </a>
+    </a> -->
     <a href="https://www.youtube.com/channel/UCSSn4gcz6-YhWUhhCvgGJxA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red" alt="Youtube Badge"/>
     </a>
