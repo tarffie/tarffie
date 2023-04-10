@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/89/1d/b6/891db617ea395c252464812e7b4f3218.gif"</img>
+    <img src="https://i.gifer.com/origin/a4/a45a8232bd11074df50555f7e3f3bab7_w200.gif" width="120" height="120"></img>
 </div>
 <span id="desc">Hello, there. I'm Gabriel, junior developer that really loves computing and tech. Coffee addicted and really annoying when it comes to clean code. Looking for opportunities to contribute as a developer in any way I can!</span>
 
