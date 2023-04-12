@@ -36,7 +36,7 @@ class Developer:
         print("Pleased to meet you, hope you enjoy your stay.")
 
 
-me = SoftwareDeveloper()
+me = Developer()
 me.say_hi()
 ```
 
