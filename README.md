@@ -4,17 +4,6 @@
 </div>
 <span id="desc">Hello, there. I'm Gabriel, junior developer that really loves computing and tech. Coffee addicted and really annoying when it comes to clean code. Looking for opportunities to contribute as a developer in any way I can!</span>
 
-<div id="badges" align="center">
-  <!--  <a href="https://twitter.com/gabs_js" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-Follow%20me!-bluevioletlogo=Twitter&logoColor=blueviolet" alt="Twitter badge">
-    </a> -->
-    <!--<a href="https://www.youtube.com/channel/UCSSn4gcz6-YhWUhhCvgGJxA" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-red" alt="Youtube Badge"/>
-    </a> -->
-    <a href="https://www.linkedin.com/in/gabriel-alves-9ba22422b/">
-    <img src="https://img.shields.io/badge/LinkedIn-check%20me%20out!" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <div id="passions" align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" alt="C language" width="40" height="40">
@@ -57,7 +46,7 @@ me.say_hi()
 -<div id="badges" align="center">
     <a href="https://twitter.com/gabs_js" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-Follow%20me!-bluevioletlogo=Twitter&logoColor=blueviolet" alt="Twitter badge">
-    </a> -->
+    </a>
     <a href="https://www.youtube.com/channel/UCSSn4gcz6-YhWUhhCvgGJxA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-red" alt="Youtube Badge"/>
     </a>
@@ -70,6 +59,7 @@ me.say_hi()
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 <!--![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)-->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
