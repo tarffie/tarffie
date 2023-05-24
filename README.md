@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://i.gifer.com/origin/a4/a45a8232bd11074df50555f7e3f3bab7_w200.gif" width="120" height="120"></img>
 </div>
-<span id="desc">Hello, there. I'm Gabriel, junior developer that really loves computing and tech. Coffee addicted and really annoying when it comes to clean code. Looking for opportunities to contribute as a developer in any way I can!</span>
+<span id="desc">Hello, there. I'm a developer that really loves computing and tech. Coffee addicted and really annoying with my stack. Looking for opportunities to contribute as a developer in any way I can!</span>
 
 
 <div id="passions" align="center">
@@ -27,7 +27,7 @@
 class Developer:
 
     def __init__(self):
-        self.name = "Gabriel Alves"
+        self.name = "Tim"
         self.role = "Software Developer"
         self.locale = "São Paulo, Brazil"
         self.language_spoken = ["pt_BR", "en_US"]
