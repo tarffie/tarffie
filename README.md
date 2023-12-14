@@ -8,7 +8,7 @@
 class Developer:
 
     def __init__(self):
-        self.name = "Helena Maria"
+        self.name = "Emilia"
         self.role = "Software Developer"
         self.locale = "São Paulo, Brazil"
         self.language_spoken = ["pt_BR", "en_US"]
