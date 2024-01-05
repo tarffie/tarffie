@@ -1,30 +1,23 @@
-# Hello, world! 
+# Hello, world!
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```scm
 
-class Developer:
+(define-structure programmer
+  (name age location))
 
-    def __init__(self):
-        self.name = "Emilia"
-        self.role = "Software Developer"
-        self.locale = "São Paulo, Brazil"
-        self.language_spoken = ["pt_BR", "en_US"]
+(define thisProgrammer (make-programmer "Emilia Alves \"Tarffie\"" 25 "Araraquara - SP [Brazil]"))
 
-    def say_hi(self):
-        print("Hello, there!.")
+(display (programmer-name thisProgrammer))
+(display (programmer-age thisProgrammer))
+(display (programmer-location thisProgrammer))
 
-
-me = Developer()
-me.say_hi()
 ```
 
 ## 📝 Blogs & Social
 
 -<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/theunholytim/">
+    <a href="https://www.linkedin.com/in/nvmemilia">
         <img src="https://img.shields.io/badge/LinkedIn-check%20me%20out!" alt="LinkedIn Badge"/>
     </a>
 </div>
@@ -32,16 +25,16 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
 <!-- ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/theunholytim/theunholytim">
+<a href="https://github.com/theunholytim/nvmEmilia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunholytim&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TheUnholyTim's GitHub Stats" />
 </a>
 
@@ -51,5 +44,4 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies [ WIP :( ]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theunholytim&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=nvmemilia&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
