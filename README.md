@@ -17,7 +17,7 @@
 ## 📝 Blogs & Social
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/nvmemilia">
+    <a href="https://www.linkedin.com/in/tarffie/">
         <img src="https://img.shields.io/badge/LinkedIn-check%20me%20out!" alt="LinkedIn Badge"/>
     </a>
 </div>
@@ -39,4 +39,5 @@
 <a href="https://github.com/theunholytim/theunholytim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theunholytim&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TheUnholyTim's GitHub Stats" />
 </a> 
+
 
