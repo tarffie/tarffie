@@ -16,7 +16,7 @@
 
 ## 📝 Blogs & Social
 
--<div id="badges" align="center">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/nvmemilia">
         <img src="https://img.shields.io/badge/LinkedIn-check%20me%20out!" alt="LinkedIn Badge"/>
     </a>
@@ -30,7 +30,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
-<!-- ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/theunholytim/nvmEmilia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunholytim&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TheUnholyTim's GitHub Stats" />
@@ -38,8 +38,5 @@
 
 <a href="https://github.com/theunholytim/theunholytim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theunholytim&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TheUnholyTim's GitHub Stats" />
-</a> -->
+</a> 
 
-## 🏆 GitHub Trophies [ WIP :( ]
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nvmemilia&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
