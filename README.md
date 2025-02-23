@@ -1,34 +1,27 @@
-# Hello, world!
+# Hello there 👋🏻!
 
+Pleased to meet you, my name is Emilia Alves.
 
-```scm
+Software engineer, speaker of English, Portuguese and German.
+I am very passionate about FOSS, text editors and technology in
+general, looking for meaningful solutions through simplicity.
+Lowkey very into with cyber-security.
 
-(define-structure programmer
-  (name age location))
-
-(define thisProgrammer (make-programmer "Emilia Alves \"Tarffie\"" 25 "Araraquara - SP [Brazil]"))
-
-(display (programmer-name thisProgrammer))
-(display (programmer-age thisProgrammer))
-(display (programmer-location thisProgrammer))
-
-```
-
-## 📝 Blogs & Social
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/tarffie/">
-        <img src="https://img.shields.io/badge/LinkedIn-check%20me%20out!" alt="LinkedIn Badge"/>
-    </a>
-</div>
-
+<a>
+    <img align="center"
+    src="https://preview.redd.it/vifah9thc7k81.png?width=1080&crop=smart&auto=webp&s=c3af717f1c80db8a71c3ad3de31b9c8c07537af8"
+    alt="Picture of Lain on her computer displaying a gentoo riced system">
+</a>
 
 ## 🔧 Technologies & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -37,7 +30,5 @@
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarffie&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TheUnholyTim's GitHub Stats" />
-</a> 
-
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarffie&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Tarffie's GitHub Stats" />
+</a>
