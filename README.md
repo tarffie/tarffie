@@ -6,6 +6,7 @@ Software engineer, speaker of English, Portuguese and German.
 I am very passionate about FOSS, text editors and technology in
 general, looking for meaningful solutions through simplicity.
 Lowkey very into with cyber-security.
+<<<<<<< ours
 <<<<<<< HEAD
 
 <div align="center">
@@ -20,13 +21,14 @@ Lowkey very into with cyber-security.
 
 =======
 
-<a>
+=======
+
     <img align="center"
     src="https://preview.redd.it/vifah9thc7k81.png?width=1080&crop=smart&auto=webp&s=c3af717f1c80db8a71c3ad3de31b9c8c07537af8"
     alt="Picture of Lain on her computer displaying a gentoo riced system">
+
 </a>
 
->>>>>>> origin/main
 ## 🔧 Technologies & Tools
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
