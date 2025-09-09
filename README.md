@@ -1,31 +1,17 @@
 # Hello there 👋🏻!
 
 Pleased to meet you, my name is Emilia Alves.
-
-Software engineer, speaker of English, Portuguese and German.
-I am very passionate about FOSS, text editors and technology in
-general, looking for meaningful solutions through simplicity.
-Lowkey very into with cyber-security.
-
-<div align="center">
-  <a>
-    <img align="center"
-    width="350px"
-    height="auto"
-    src="https://preview.redd.it/vifah9thc7k81.png?width=1080&crop=smart&auto=webp&s=c3af717f1c80db8a71c3ad3de31b9c8c07537af8"
-    alt="Picture of Lain on her computer displaying a gentoo riced system">
-  </a>
-</div>
+Brazilian Software engineer, love computer science, love Unix, love security.
 
 ## 🔧 Technologies & Tools
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
