@@ -1,14 +1,14 @@
 # Hello there 👋🏻!
 
-Pleased to meet you, my name is Emilia Alves.
+Pleased to meet you, I'm Emilia Alves.
 
 important info:
 - Brazilian 🇧🇷
-- Pronouns are she/her
+- she/her
 - Software engineer
-- love Unix, specially gentoo
+- love Unix and Linux, specially gentoo
 - love security.
 
 ## 📟 Contact info
-  - email: <a href="mailto:emiliaalves.tarffie@gmail.com">emiliaalves.tarffie@gmail.com</a></li>
+  - email: <a href="mailto:emilia@tarffie.dev">emilia@tarffie.dev</a></li>
   - discord: ratelimitedthinking
