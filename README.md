@@ -1,13 +1,11 @@
-# Hello there 👋🏻!
+Hello there! I work at Ordem Paranormal and do some other things. ¯\_(ツ)_/¯
 
-Pleased to meet you, I'm Emilia Alves.
-
-important info:
-- Brazilian 🇧🇷
-- she/her
-- Software engineer
-- love Unix and Linux, specially gentoo
-- love security.
+funsies i've worked on:
+  - Ordem Paranormal Vigilia
+  - Cellbit escapa
+  - Lain rpg bot
+  - iso8583 simulator
+  - chattar
 
 ## 📟 Contact info
   - email: <a href="mailto:emilia@tarffie.dev">emilia@tarffie.dev</a></li>
