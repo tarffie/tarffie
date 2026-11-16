@@ -1,4 +1,4 @@
-Hello there! I work at Ordem Paranormal and do some other things. ¯\_(ツ)_/¯
+Hello there! I work at Ordem Paranormal and do some other things.
 
 funsies i've worked on:
   - Ordem Paranormal Vigilia
