@@ -9,4 +9,4 @@ funsies i've worked on:
 
 ## 📟 Contact info
   - email: <a href="mailto:emilia@tarffie.dev">emilia@tarffie.dev</a></li>
-  - discord: ratelimitedthinking
+  - discord: tarffie
